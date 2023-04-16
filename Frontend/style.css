@@ -1,0 +1,62 @@
+body {
+    background: url('https://st2.depositphotos.com/3545363/8710/v/600/depositphotos_87103368-stock-illustration-night-sky-with-a-crescent.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    font-size: 62px;
+    text-shadow: -1px -1px #0c0, 1px 1px #060, -3px 0 4px #000;
+    font-family: cursive,Arial, Helvetica, sans-serif;
+    color: pink;
+    padding: 16px;
+    font-weight: lighter;
+    -moz-box-shadow: 2px 2px 6px #888;
+    -webkit-box-shadow: 2px 2px 6px #888;
+    box-shadow: 2px 2px 6px #888;
+    text-align: center;
+    display: block;
+    margin: 16px;
+  }
+
+h2{
+    font-size: 30px;
+    text-shadow: -1px -1px #0c0, 1px 1px #060, -3px 0 4px #000;
+    font-family: cursive,Arial, Helvetica, sans-serif;
+    color: rgb(232, 148, 162);
+    padding: 16px;
+    font-weight: lighter;
+    text-align: center;
+    display: block;
+    margin: 16px;
+}
+
+.button-33 {
+    background-color: #c2fbd7;
+    border-radius: 100px;
+    box-shadow: rgba(44, 187, 99, 0.2) 0 -25px 18px -14px inset,
+        rgba(44, 187, 99, 0.15) 0 1px 2px, rgba(44, 187, 99, 0.15) 0 2px 4px,
+        rgba(44, 187, 99, 0.15) 0 4px 8px, rgba(44, 187, 99, 0.15) 0 8px 16px,
+        rgba(44, 187, 99, 0.15) 0 16px 32px;
+    color: green;
+    cursor: pointer;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto,
+        sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 22px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+
+}
+
+.button-33:hover {
+    box-shadow: rgba(44, 46, 187, 0.35) 0 -25px 18px -14px inset,
+        rgba(44, 89, 187, 0.25) 0 1px 2px, rgba(44, 94, 187, 0.25) 0 2px 4px,
+        rgba(44, 123, 187, 0.167) 0 4px 8px, rgba(44, 187, 99, 0.25) 0 8px 16px,
+        rgba(44, 70, 187, 0.331) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+}
